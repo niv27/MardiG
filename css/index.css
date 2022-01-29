@@ -1,0 +1,110 @@
+ .carousel-item {
+     height: 40rem;
+ }
+
+ .nav-link {
+     font-family: 'Roboto';
+ }
+
+ .carousel-caption {
+     color: white;
+     text-shadow: 4px 4px 7px #000000;
+     font-size: 1.2rem;
+ }
+
+ .carousel-caption h5 {
+     color: white;
+     text-shadow: 4px 4px 7px #000000;
+     font-size: 1.5rem;
+ }
+
+ section p {
+     font-family: 'Roboto';
+     font-weight: bold;
+ }
+
+ section h1 {
+     text-align: center;
+     font-family: 'Henny Penny';
+     color: #8cbf3f;
+     font-size: 55pt;
+     line-height: 2em;
+ }
+
+ section h2 {
+     text-align: center;
+     font-family: 'Henny Penny';
+     color: #8cbf3f;
+     font-size: 40pt;
+
+ }
+
+ .btn-primary {
+     background-color: #F2CC0F;
+     border-color: #8cbf3f;
+     color: #9453A6;
+     font-size: 16pt;
+     font-family: 'pattya';
+     font-weight: bold;
+ }
+
+ .card-text {
+     font-weight: bold;
+ }
+
+ .card {
+     height: 500px;
+ }
+
+ .carousel-inner {
+     height: 700px;
+ }
+
+ .carousel-item,
+ img {
+     height: 100%;
+     width: 100%;
+ }
+
+
+ .row {
+     height: 500px;
+ }
+
+ .row .col {
+     padding: 5px 5px;
+     margin: 5px 5px;
+ }
+
+ .row {
+     padding: 5px 5px;
+     margin: 10px 5px;
+ }
+
+ ul li a {
+     font-weight: bold;
+     font-size: 20pt;
+ }
+
+ h5 {
+
+     font-family: 'Pattaya';
+     color: #8cbf3f;
+     font-size: 1.3rem;
+
+ }
+
+ .card-body p {
+     font-family: 'Roboto';
+     color: #9453A6;
+ }
+
+ .row {
+     height: auto;
+ }
+
+ .sponser {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }

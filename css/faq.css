@@ -1,0 +1,46 @@
+ .nav-link {
+     font-family: 'Roboto';
+ }
+
+ h1 {
+     text-align: center;
+     font-family: 'Henny Penny';
+     color: #8cbf3f;
+     font-size: 55pt;
+     line-height: 2em;
+ }
+
+ .accordion-button {
+     color: #F2CC0F;
+     background-color: #9453A6;
+     font-family: 'Pattaya';
+     font-size: 1.5rem;
+ }
+
+ .accordion-body {
+     background-color: #F2CC0F;
+     color: #9453A6;
+     font-family: 'Roboto';
+     font-size: 1.1rem;
+ }
+
+ ul li a {
+     font-weight: bold;
+     font-size: 20pt;
+ }
+
+ a img {
+     height: 100%;
+     width: 100%;
+ }
+
+ footer {
+     font-family: 'Roboto';
+ }
+
+ footer {
+
+     bottom: 0;
+     left: 0;
+     right: 0;
+ }
